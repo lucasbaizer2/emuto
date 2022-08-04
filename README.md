@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://kantord.github.io/emuto/img/emuto.svg" height="100">
+  <img src="https://lucasbaizer2.github.io/emuto/img/emuto.svg" height="100">
 </p>
 
 <p align="center">
-  <a href="https://kantord.github.io/emuto/">Website</a> •
-  <a href="https://kantord.github.io/emuto/docs/tutorial">Tutorial</a> •
-  <a href="https://kantord.github.io/emuto/docs/try_emuto">Live demo</a> •
+  <a href="https://lucasbaizer2.github.io/emuto/">Website</a> •
+  <a href="https://lucasbaizer2.github.io/emuto/docs/tutorial">Tutorial</a> •
+  <a href="https://lucasbaizer2.github.io/emuto/docs/try_emuto">Live demo</a> •
   <a href="#emuto-as-a-cli-tool">CLI version</a> •
   <a href="#webpack-loader-for-emuto">Compile-to-JS version</a>
 
@@ -14,14 +14,14 @@
 
 ---
 
-Emuto is a small language for manipulating and restructuring JSON and other data files. [Emuto is inspired by jq and GraphQL](https://kantord.github.io/emuto/docs/comparison_with_other_languages)
+Emuto is a small language for manipulating and restructuring JSON and other data files. [Emuto is inspired by jq and GraphQL](https://lucasbaizer2.github.io/emuto/docs/comparison_with_other_languages)
 
 
 <p align="center">
-  <img  src="https://kantord.github.io/emuto/img/demo.gif">
+  <img  src="https://lucasbaizer2.github.io/emuto/img/demo.gif">
 </p>
 
-![build](https://img.shields.io/travis/kantord/emuto/master.svg) ![Codecov](https://img.shields.io/codecov/c/github/kantord/emuto/master.svg) ![David](https://img.shields.io/david/kantord/emuto.svg) ![NPM](https://img.shields.io/npm/l/emuto.svg) ![GitHub release](https://img.shields.io/github/release/kantord/emuto.svg)   [![Twitter URL](https://img.shields.io/twitter/url/https/https://github.com/kantord/emuto.svg?style=social)](https://twitter.com/intent/tweet?text=transform%20%26%20query%20jSON%2C%20CSV%2C%20etc.%20easily%20using%20emuto%20https%3A%2F%2Fgithub.com%2Fkantord%2Femuto)
+![build](https://img.shields.io/travis/lucasbaizer2/emuto/master.svg) ![Codecov](https://img.shields.io/codecov/c/github/lucasbaizer2/emuto/master.svg) ![David](https://img.shields.io/david/lucasbaizer2/emuto.svg) ![NPM](https://img.shields.io/npm/l/emuto.svg) ![GitHub release](https://img.shields.io/github/release/lucasbaizer2/emuto.svg)   [![Twitter URL](https://img.shields.io/twitter/url/https/https://github.com/lucasbaizer2/emuto.svg?style=social)](https://twitter.com/intent/tweet?text=transform%20%26%20query%20jSON%2C%20CSV%2C%20etc.%20easily%20using%20emuto%20https%3A%2F%2Fgithub.com%2Flucasbaizer2%2Femuto)
 
 ## Features
 
@@ -40,7 +40,7 @@ Emuto is a small language for manipulating and restructuring JSON and other data
 npm install -g emuto emuto-cli
 ```
 
-[Read more in the tutorial](https://kantord.github.io/emuto/docs/tutorial)
+[Read more in the tutorial](https://lucasbaizer2.github.io/emuto/docs/tutorial)
 
 [For Arch Linux users, also available as an AUR package](https://aur.archlinux.org/packages/emuto/)
 
@@ -50,7 +50,7 @@ npm install -g emuto emuto-cli
 yarn add --dev emuto emuto-loader
 ```
 
-[Read more in the Webpack guide](https://kantord.github.io/emuto/docs/setup-webpack)
+[Read more in the Webpack guide](https://lucasbaizer2.github.io/emuto/docs/setup-webpack)
 
 
 ## What is emuto good for? Examples
